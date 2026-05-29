@@ -64,12 +64,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishvidyarthcsecs&show_icons=true&theme=tokyonight&hide_border=true" alt="Harish's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=harishvidyarthcsecs&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishvidyarthcsecs&theme=tokyonight" alt="Harish's GitHub stats" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishvidyarthcsecs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harishvidyarthcsecs&theme=tokyonight" alt="Repos per language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harishvidyarthcsecs&theme=tokyonight" alt="Most commit language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harishvidyarthcsecs&theme=tokyonight" alt="Stats" width="32%" />
 </p>
 
 ---
